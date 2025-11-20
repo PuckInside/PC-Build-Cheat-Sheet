@@ -13,5 +13,3 @@
 + MSI MPG A850G PCIE5
 
 + Thermaltake Toughpower GF3
-
-

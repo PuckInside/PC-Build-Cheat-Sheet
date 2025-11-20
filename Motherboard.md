@@ -2,8 +2,6 @@
 
 Не советую брать X870 платы, если не планируешь вставлять больше 3-4 ссд. 
 
-
-
 ## B850 чипсет
 
 ATX
@@ -16,8 +14,6 @@ ATX
 
 + MSI MPG B850 EDGE TI WIFI
 
-
-
 Micro-ATX
 
 + MSI MAG B850M MORTAR WIFI
@@ -27,8 +23,6 @@ Micro-ATX
 + ASUS TUF GAMING B850M-PLUS WIFI
 
 + ASUS ROG STRIX B850-G WIFI
-
-
 
 ## B650 чипсет
 
@@ -47,12 +41,8 @@ ATX
 
 - MSI MAG B650 Tomahawk Wifi (всего 6 слоев)
 
-
-
 Micro-ATX
 
 + Gigabyte B650M Aorus Elite AX (всего 6 слоев)
 
 + MSI MAG B650M Mortar Wifi (всего 6 слоев)
-
-
